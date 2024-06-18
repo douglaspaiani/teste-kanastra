@@ -1,0 +1,15 @@
+button[type=submit] {
+    background-color: rgb(2, 112, 171);
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 10px;
+    display: block;
+    margin: auto;
+    margin-top: 20px;
+}
+form {
+    text-align: center;
+}
+form input {
+    margin-top: 20px;
+}
